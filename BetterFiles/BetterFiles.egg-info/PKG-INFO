@@ -1,0 +1,28 @@
+Metadata-Version: 1.1
+Name: BetterFiles
+Version: 0.0.1
+Summary: A package to easier use Files in Python.
+Home-page: https://github.com/Butter-mit-Brot/BetterFiles
+Author: Max "Butter" W.
+Author-email: maxwbusinesspypi@gmail.com
+License: MIT
+Description: With this Python package you should be able to create and maintain Files much easier and better.
+        
+        For more detailed information or how to use the package go on the github repository(https://github.com/Butter-mit-Brot/BetterFiles)
+        
+        Change Log
+        ==========
+        
+        0.0.1 (17/07/2021)
+        ------------------
+        - First Release
+        
+        
+        
+Keywords: betterFiles,Files,BetterFile,File,Files in Python,easy files,file manipulation,Better,zip
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3

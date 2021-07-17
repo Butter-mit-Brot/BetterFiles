@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+BetterFiles/__init__.py
+BetterFiles.egg-info/PKG-INFO
+BetterFiles.egg-info/SOURCES.txt
+BetterFiles.egg-info/dependency_links.txt
+BetterFiles.egg-info/top_level.txt
