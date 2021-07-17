@@ -34,6 +34,7 @@ bf.createF("File.txt", text)
 print("created!")
 ```
 Result:
+
 ![image](https://user-images.githubusercontent.com/83476809/126047432-1e0119a1-a77c-4d02-afff-976b2aba6ea6.png)
 
 <hr>
@@ -48,5 +49,18 @@ bf.copy("Note.txt", "Note-copy.txt")
 print("copied")
 ```
 Result:
+
 ![image](https://user-images.githubusercontent.com/83476809/126047506-44f1e4d7-eb4a-423b-8def-97269c2edc11.png)
+
+Create html:
+```Python
+import BetterFiles as bf
+
+bf.createHTML("file.html", "My Webpage", "Some Text to be there!")
+print("created html")
+```
+Result:
+
+![image](https://user-images.githubusercontent.com/83476809/126047573-faaabd76-e9ac-4d2e-9a4d-321b37abc76f.png)
+
 
