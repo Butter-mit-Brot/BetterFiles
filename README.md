@@ -47,7 +47,7 @@ Result:
 
 ### Some examples
 
-Create html:
+####### Create html:
 ```Python
 import BetterFiles as bf
 
@@ -58,7 +58,7 @@ Result:
 
 ![image](https://user-images.githubusercontent.com/83476809/126047573-faaabd76-e9ac-4d2e-9a4d-321b37abc76f.png)
 
-Create JSON:
+####### Create JSON:
 ```Python
 import BetterFiles as bf
 
@@ -84,7 +84,7 @@ Result:
 
 ![image](https://user-images.githubusercontent.com/83476809/126047746-3d800e59-a8cc-467e-8fa0-cf9f5cb6fc06.png)
 
-Copy Files:
+####### Copy Files:
 ```Python
 import BetterFiles as bf
 
@@ -95,7 +95,7 @@ Result:
 
 ![image](https://user-images.githubusercontent.com/83476809/126047506-44f1e4d7-eb4a-423b-8def-97269c2edc11.png)
 
-Delete Files:
+####### Delete Files:
 ```Python
 import BetterFiles as bf
 
@@ -106,7 +106,7 @@ Result:
 
 ![image](https://user-images.githubusercontent.com/83476809/126047787-94618d5d-41ec-4e02-878c-2d540a55e14b.png)
 
-Create zip folder:
+####### Create zip folder:
 ```Python
 import BetterFiles as bf
 
