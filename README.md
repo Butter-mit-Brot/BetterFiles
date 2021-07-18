@@ -17,6 +17,12 @@ Ensure you have at least Python 3.
 
 <hr>
 
+## All functions
+
+<a href="https://github.com/Butter-mit-Brot/BetterFiles/blob/main/Commands.md"> all function </a>
+
+<hr>
+
 ### Usage
 
 Import the package!
