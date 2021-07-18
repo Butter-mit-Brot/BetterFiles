@@ -19,7 +19,7 @@ Ensure you have at least Python 3.
 
 ## All functions
 
-<a href="https://github.com/Butter-mit-Brot/BetterFiles/blob/main/Commands.md"> all function </a>
+<a href="https://github.com/Butter-mit-Brot/BetterFiles/blob/main/Commands.md"> all functions </a>
 
 <hr>
 
