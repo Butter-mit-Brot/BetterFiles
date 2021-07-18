@@ -44,5 +44,4 @@ BetterFiles.extractZIP("File")
 
 BetterFiles.makeZIP("name of the zipfile *{must end with .zip}*", All files *{written like this: "File 1", "File 2", "File 3", and so on}*)
 
-↑ This will create a zip folder out of all your files you give him. For more info go to <a href="https://github.com/Butter-mit-Brot/BetterFiles#readme">the readme</a>
-and look at the example.
+↑ This will create a zip folder out of all your files you give him. For more info go to <a href="https://github.com/Butter-mit-Brot/BetterFiles/blob/main/README.md#create-zip-folder">the readme</a>.
