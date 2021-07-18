@@ -3,6 +3,7 @@
 <hr>
 
 BetterFiles.createF("The name", "The text", overwrite=True *{This is optional}*)
+↑ For creating files
 
 BetterFiles.readF("File") 
 
